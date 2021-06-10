@@ -1,2 +1,2 @@
-# PHP Internship (Akash Tecnolabs)
+# PHP Internship at Akash Tecnolabs.
 PHP PROGRAMS
