@@ -1,2 +1,2 @@
-# PHP
+# PHP Internship
 PHP PROGRAMS
